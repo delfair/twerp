@@ -1,4 +1,5 @@
 # twerp
+---
 
 A motley but growing collection of scripts and simple utilities for pathogen genomics and typing.
 
@@ -18,8 +19,8 @@ Twerp [twurp]
 
 https://www.dictionary.com/browse/twerp
 
-noun Slang.
-"an insignificant or despicable fellow"
+noun Slang.</br>
+"an insignificant or despicable fellow"</br>
 (also a term of endearment used by Scottish mothers to refer to their naughty offspring)
 
 ---
