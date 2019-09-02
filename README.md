@@ -12,9 +12,14 @@ Scripts to parse (JSON) output files and convert to HTML table format, or select
 
 To follow: scripts to compile and manage summary report(s) for end-users, Eg. PDF reports.
 
+#### Etymology
 
 Twerp [twurp]
+
 https://www.dictionary.com/browse/twerp
+
 noun Slang.
+
 "an insignificant or despicable fellow"
+
 (also a term of endearment used by Scottish mothers to refer to their naughty offspring)
