@@ -1,12 +1,12 @@
-## twerp
+# twerp
 
 A motley but growing collection of scripts and simple utilities for pathogen genomics and typing.
 
-# Nullarbor outfiles
+## Nullarbor outfiles
 
 Krona.sh runs KronaTools ktImportTaxonomy on Kraken classifier output files and generates a Krona HTML5 report.
 
-# Mykrobe outfiles
+## Mykrobe outfiles
 
 Scripts to parse (JSON) output files and convert to HTML table format, or selected text/HTML.
 
