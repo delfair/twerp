@@ -15,7 +15,7 @@ To follow: scripts to compile and manage summary report(s) for end-users, Eg. PD
 
 #### Etymology
 
-Twerp [twurp]
+Twerp [<i>twurp</i>]
 
 https://www.dictionary.com/browse/twerp
 
