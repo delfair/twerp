@@ -6,7 +6,7 @@ These allow reformatting and analyis of output files from software such as Nulla
 
 ### Nullarbor outfiles
 
-Krona.sh runs KronaTools ktImportTaxonomy on Kraken classifier output files and generates a Krona HTML5 report.
+Krona.sh runs KronaTools ktImportTaxonomy on Nullarbor/Kraken classifier output files and generates a Krona HTML5 report.
 
 ### Mykrobe outfiles
 
