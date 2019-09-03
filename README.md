@@ -10,11 +10,13 @@ Krona.sh runs KronaTools ktImportTaxonomy on Nullarbor/Kraken classifier output 
 
 ### Mykrobe outfiles
 
-Scripts to run Mykrobe predict on multiple infiles and parse (JSON) output files and convert to HTML table format, or selected text/HTML.
+Scripts to parse Mykrobe (JSON) output files and convert to formatted HTML tables, or text/HTML output of selected fields.
 
 To do:
 
-Script to check dependencies
+Script to run Mykrobe predict on multiple samples.
+
+Script to check software dependencies & versions.
 
 Scripts to generate PDF report(s) for end-users (LaTeX, rst2pdf, ReportLab...)
 
