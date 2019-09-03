@@ -1,6 +1,6 @@
 # twerp
 
-A motley but growing collection of scripts and simple utilities for pathogen genomics and typing.
+A motley but growing collection of simple utility scripts for pathogen genomics and typing.
 
 ### Nullarbor outfiles
 
