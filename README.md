@@ -18,7 +18,7 @@ Scripts to generate PDF report(s) for end-users (LaTeX, rst2pdf, ReportLab...)
 
 #### Etymology
 
-Twerp [<i>twurp</i>]
+twerp [<i>twurp</i>]
 
 https://www.dictionary.com/browse/twerp
 
