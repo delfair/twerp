@@ -29,6 +29,6 @@ https://www.dictionary.com/browse/twerp
 
 noun Slang.</br>
 "an insignificant or despicable fellow"</br>
-(also a term of endearment used by Scottish mothers - especially mine - for naughty offspring)
+(also a term of endearment used by Scottish mothers - especially mine - for their naughty offspring)
 
 #
