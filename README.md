@@ -14,10 +14,10 @@ Scripts to parse Mykrobe (JSON) output files and convert to formatted HTML table
 
 To do:
 
-Script to generate Nullarbor samples.tab file
-Script to run Mykrobe predict on multiple samples.
-Script to check software dependencies & versions.
-Scripts to generate PDF report(s) for end-users (LaTeX, rst2pdf, ReportLab...)
+Script to generate Nullarbor samples.tab file.</br>
+Script to run Mykrobe predict on multiple samples.</br>
+Script to check software dependencies & versions.</br>
+Scripts to generate PDF report(s) for end-users (LaTeX, rst2pdf, ReportLab...).</br>
 
 #
 
