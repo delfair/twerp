@@ -2,7 +2,7 @@
 
 A collection of simple utility scripts for pathogen genomics and typing. 
 
-These allow reformatting and analyis of output files from software such as Nullarbor (https://github.com/tseemann/nullarbor) and Mykrobe (https://github.com/Mykrobe-tools/mykrobe), using tools such as Krona (https://github.com/marbl/Krona/wiki).
+These allow reformatting and analyis of output files from software such as Nullarbor (https://github.com/tseemann/nullarbor) and Mykrobe (https://github.com/Mykrobe-tools/mykrobe), using tools such as Krona (https://github.com/marbl/Krona/wiki) and json2html (https://pypi.org/project/json2html/).
 
 ### Nullarbor outfiles
 
