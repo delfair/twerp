@@ -16,11 +16,11 @@ To do:
 
 Script to run Mykrobe predict on multiple samples.</br>
 Script to check software dependencies & versions.</br>
-Scripts to generate PDF report(s) for end-users (LaTeX, rst2pdf, ReportLab...).</br>
-
-#
+Scripts to generate PDF report(s) for end-users (LaTeX, rst2pdf, ReportLab...).</br></br>
 
 Stanford_HIVdb_xml_parser.xsl is an XLST stylesheet to transform Stanford HIVdb xml reports 
+
+#
 
 #### Etymology
 
