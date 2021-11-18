@@ -20,6 +20,8 @@ Scripts to generate PDF report(s) for end-users (LaTeX, rst2pdf, ReportLab...).<
 
 #
 
+Stanford_HIVdb_xml_parser.xsl is an XLST stylesheet to transform Stanford HIVdb xml reports 
+
 #### Etymology
 
 twerp [<i>twurp</i>]
