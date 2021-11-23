@@ -18,7 +18,10 @@ Script to run Mykrobe predict on multiple samples.</br>
 Script to check software dependencies & versions.</br>
 Scripts to generate PDF report(s) for end-users (LaTeX, rst2pdf, ReportLab...).</br></br>
 
-Stanford_HIVdb_xml_parser.xsl is an XSLT stylesheet to transform Stanford HIVdb xml reports 
+### Stanford HIVdb
+
+Stanford_HIVdb_xml_parser.xsl is an XSLT stylesheet to transform Stanford HIVdb XML reports </br>
+xslt_wrapper.sh is a shell script to run XSLT transform on Stanford HIVdb XML reports and handle file operations, renaming etc. </br>
 
 #
 
