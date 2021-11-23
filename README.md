@@ -6,7 +6,7 @@ These allow reformatting and analyis of output files from software such as Nulla
 
 ### Nullarbor outfiles
 
-krona.sh runs KronaTools ktImportTaxonomy on Nullarbor/Kraken classifier output files and generates a Krona HTML5 report.
+`krona.sh` runs KronaTools ktImportTaxonomy on Nullarbor/Kraken classifier output files and generates a Krona HTML5 report.
 
 ### Mykrobe outfiles
 
@@ -20,8 +20,8 @@ Scripts to generate PDF report(s) for end-users (LaTeX, rst2pdf, ReportLab...).<
 
 ### Stanford HIVdb
 
-stanford_HIVdb_xml_parser.xsl is an XSLT stylesheet to transform Stanford HIVdb XML reports </br>
-xslt_wrapper.sh is a shell script to run XSLT transform on Stanford HIVdb XML reports and handle file operations, renaming etc. </br>
+`stanford_HIVdb_xml_parser.xsl` is an XSLT stylesheet to transform Stanford HIVdb XML reports </br>
+`xslt_wrapper.sh` is a shell script to run XSLT transform on Stanford HIVdb XML reports and handle file operations, renaming etc. </br>
 
 #
 
